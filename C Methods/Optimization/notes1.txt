@@ -1,0 +1,12 @@
+Multidimensional Optimization
+
+Direct search methods
+Coordinate search
+Gradient 
+Adjustment
+Praboloid
+
+xm (n+1) = xm (n) - (df/dxn).h
+step = step(quad(paraboloide)) + k.step(grad)
+gradient step:
+paraboloide step: good when we are near t
